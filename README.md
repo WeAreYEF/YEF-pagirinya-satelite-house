@@ -5,7 +5,7 @@ Pagirinya satelite house prototype is a sustainable ICT enhanced social network 
 # how?
 - Engaging in open tech innovation,peace building,media and information literacy(MIL),career inspiration and life skills
 # aims
-- To strengthen the activities of The Youth Empowerment Foundation (YEF)in the region for a collective,social, mobilisation as a strategy for empowering the youth to embrace the active participation in peace,non violi and reconciliation dialogues.
+- To strengthen the activities of The Youth Empowerment Foundation (YEF)in the region for a collective,social, mobilisation as a strategy for empowering the youth to embrace the active participation in peace,non violence and reconciliation dialogues.
 
 **The Youths are actively participating in the construction of the satelite house prototype**
 ![](Images/youthsloweringtheplainwood.jpg)
