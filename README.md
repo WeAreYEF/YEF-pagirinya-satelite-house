@@ -14,6 +14,10 @@ In order to overcome;
 *Political differences*
 *Economic depression* etc
 - A network of trainings via the satelite is to be established and existing projects to connect the satelite and the youths will be accelerated
-# mission
+# mission;
+- To organise and conduct regular training and free space for young innovatories in the settlement.
+# vision;
+- To act as a modal institution and resource center of excellence in technology and open source research.
+- To develop an ICT and youth led skill enhanced social network space(SNS)for effective peace, education,mobility and Empowerment of the youths in south sudanese refugee settlement and the host communities.
 
  
