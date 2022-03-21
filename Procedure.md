@@ -18,6 +18,7 @@
 - panga
 - spade
 # raising of the foundation
+![](Images/raisingfoudation.jpeg)
 - the foundation was raised by bricks eight courses above the ground before casting
 - coup iron was put after every 2 courses to prevent in expected cracks in the foundation.
 ## tools used
