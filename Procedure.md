@@ -1,6 +1,7 @@
 # bush clearing;
 - commenced immediately after commissioning the land to The Youth Empowerment Foundation by the camp commandant under the supervision of the office of the prime minister adjumani.
 # gathering of materials;
+![](Images/setting.jpg)
 - materials such as pitsand, riversand,bricks and aggregate were gathered at the space by the help of Mr vuga William the director YEF and afew community members interned in offloading the bricks.
 # Foundation setting
 - set by engineer Idrifua Patrick who made dimensions of the building following instructions of the executive director YEF
