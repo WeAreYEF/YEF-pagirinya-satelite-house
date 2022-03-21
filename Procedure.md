@@ -4,6 +4,7 @@
 - materials such as pitsand, riversand,bricks and aggregate were gathered at the space by the help of Mr vuga William the director YEF and afew community members interned in offloading the bricks.
 # Foundation setting
 - set by engineer Idrifua Patrick who made dimensions of the building following instructions of the executive director YEF
+
 ## tools used
 - building line
 - square
@@ -38,6 +39,7 @@ heavily
 ## setting of the frame work
 - The frame set using plain wood of 200cm×100cm dimensions
 - timbers 2×6 were used in making frames and plain wood hammered on it.
+![](Images/makingtheframework.jpg)
 # filling and ramping
 - after making the frame work,it was aligned to the slab
 - amixture made of stone dust,clay soil,maram,sand and cement in the ratio of 2:2:2:2 respectively
