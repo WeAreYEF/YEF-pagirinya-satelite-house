@@ -41,6 +41,7 @@ heavily
 - timbers 2×6 were used in making frames and plain wood hammered on it.
 ![](Images/makingtheframework.jpg)
 # filling and ramping
+
 ![](Images/ramping.jpeg)
 - after making the frame work,it was aligned to the slab
 - amixture made of stone dust,clay soil,maram,sand and cement in the ratio of 2:2:2:2 respectively
