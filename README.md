@@ -4,6 +4,7 @@ Pagirinya satelite house prototype is a sustainable ICT enhanced social network 
 - Bringing all the Youths from different ethnic affiliation in pagirinya and neighbouring south sudan refugee settlements and host communities in Uganda together.
 # how?
 - Engaging in open tech innovation,peace building,media and information literacy(MIL),career inspiration and life skills
+![](Images/media.jpg)
 # aims
 - To strengthen the activities of The Youth Empowerment Foundation (YEF)in the region for a collective,social, mobilisation as a strategy for empowering the youth to embrace the active participation in peace,non violence and reconciliation dialogues.
 ![](Images/medialiteracy.jpg)
