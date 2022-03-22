@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## pagirinya satelite house prototype is a sustainable ICT enhanced social network space(SNS)aligned with The Youth Empowerment Foundation (YEF) adjumani
 
 You can use the [editor on GitHub](https://github.com/WeAreYEF/pagirinya-satelite-house-prototype/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
