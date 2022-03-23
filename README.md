@@ -33,9 +33,11 @@ For materials,read more in the link
 - To act as a modal institution and resource center of excellence in technology and open source research.
 - To develop an ICT and youth led skill enhanced social network space(SNS)for effective peace, education,mobility and Empowerment of the youths in south sudanese refugee settlement and the host communities.
 ![](Images/wall.jpg)
-Fore more images
+For more images open the link bellow
 [Images](Images/)
+
 For procedure,read more in the link
+
 [Procedure](/Procedure.md)
 
  
