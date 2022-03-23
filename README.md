@@ -27,7 +27,7 @@ In order to overcome
 ![](Images/youthsatwork.jpg)
 # mission
 - To organise and conduct regular training and free space for young innovatories in the settlement.
-# vision;
+# vision
 - To act as a modal institution and resource center of excellence in technology and open source research.
 - To develop an ICT and youth led skill enhanced social network space(SNS)for effective peace, education,mobility and Empowerment of the youths in south sudanese refugee settlement and the host communities.
 ![](Images/wall.jpg)
