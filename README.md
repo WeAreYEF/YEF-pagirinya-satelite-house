@@ -17,7 +17,7 @@ Pagirinya satelite house prototype is a sustainable ICT enhanced social network 
 ![](Images/youthsloweringtheplainwood.jpg)
 
 
-In order to overcome;
+In order to overcome
 
 *The past ethnic prejudice or stereotypes*
 *Cultural rigidity/nostalgia*
@@ -25,7 +25,7 @@ In order to overcome;
 *Economic depression* etc
 - A network of trainings via the satelite is to be established and existing projects to connect the satelite and the youths will be accelerated
 ![](Images/youthsatwork.jpg)
-# mission;
+# mission
 - To organise and conduct regular training and free space for young innovatories in the settlement.
 # vision;
 - To act as a modal institution and resource center of excellence in technology and open source research.
