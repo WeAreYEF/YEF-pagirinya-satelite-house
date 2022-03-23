@@ -32,6 +32,6 @@ In order to overcome
 - To develop an ICT and youth led skill enhanced social network space(SNS)for effective peace, education,mobility and Empowerment of the youths in south sudanese refugee settlement and the host communities.
 ![](Images/wall.jpg)
 Fore more images
-![](Images)
+[Images](Images/)
 
  
