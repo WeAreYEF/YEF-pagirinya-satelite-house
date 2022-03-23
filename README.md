@@ -25,6 +25,8 @@ In order to overcome
 *Economic depression* etc
 - A network of trainings via the satelite is to be established and existing projects to connect the satelite and the youths will be accelerated
 ![](Images/youthsatwork.jpg)
+For materials,read more in the link
+
 # mission
 - To organise and conduct regular training and free space for young innovatories in the settlement.
 # vision
