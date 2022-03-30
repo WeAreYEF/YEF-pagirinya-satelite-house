@@ -53,6 +53,7 @@ heavily
 - the ramped wall is left to cure for one day before the top course is put.
 - after removing the framework during the second day,water is poured on the wall frequently to ensure proper curing.
 - the process is repeatedly done until the whole wall intended is done.
+![](Images/collection.jpg)
 ![](Images/wall.jpg)
 
 
