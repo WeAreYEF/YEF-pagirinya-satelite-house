@@ -7,6 +7,7 @@ Pagirinya satelite house prototype is a sustainable ICT enhanced social network 
 ![](Images/diagonalview.jpg)
 # how?
 - Engaging in open tech innovation,peace building,media and information literacy(MIL),career inspiration and life skills
+![](Images/aerialview.jpg)
 ![](Images/media.jpg)
 ![](Images/TRIAL.jpg)
 # aims
