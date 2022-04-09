@@ -1,4 +1,4 @@
-# bush clearing;
+# Bush clearing;
 - commenced immediately after commissioning the land to The Youth Empowerment Foundation by the camp commandant under the supervision of the office of the prime minister adjumani.
 # gathering of materials;
 ![](Images/setting.jpg)
