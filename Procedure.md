@@ -7,8 +7,6 @@ clay soil, sand soil and very little cement to give the structure strength and a
 *Below are images showing the full view of the Architectural drawing side.*
 *NB All efforts are geared towards acheiving the design above*
 
-![Github Logo](images/Plan.png)
-
 
 ## Below are the progressive processes of how the building was constructed.
 -	Bush Clearing.
